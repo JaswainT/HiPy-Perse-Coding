@@ -1,0 +1,3 @@
+calories= int(input("How many calories would you like to burn?"))
+steps=calories/100*3000
+print("You need to walk", steps, "steps")
